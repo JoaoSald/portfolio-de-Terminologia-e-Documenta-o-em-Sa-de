@@ -1,0 +1,30 @@
+.teste01
+    {
+    background-color: blueviolet;
+    text-align: center;
+    padding: 10px;
+    margin-top: -20px;
+    margin-bottom: 0;
+    }
+
+    .teste02{
+      background-color: rgba(65, 62, 62, 0.918);
+      padding-top: 2px;
+    }
+
+    .teste03{
+      padding-bottom: 20px;
+    }
+
+    footer{
+      text-align: center;
+      background-color: rgb(245, 63, 63);
+      height: 27px;
+      color: #ffff;
+    }
+
+    footer > p > a {
+     color: #ffff;
+     font-weight: bolder;
+      
+    }
